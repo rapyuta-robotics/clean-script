@@ -32,3 +32,5 @@ The `sa.txt` is the script that was run by the malware. Unfortunately, it's not 
    - bcm-agent
 
 Please contact support@rapyuta.io for any clarifications or help
+
+*P.S. If you see errors such as iptables not found or firewalld not found, please ignore it. It just tries and fails if it doesn't exits*
