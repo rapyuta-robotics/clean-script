@@ -31,11 +31,4 @@ The `sa.txt` is the script that was run by the malware. Unfortunately, it's not 
    - aliyun
    - bcm-agent
 
-
-To run it via salt:
-
-- `salt-cp '*' /recover-script/cleanup.sh /tmp/cleanup.sh`
-- `salt '*' cmd.run 'bash /tmp/cleanup.sh'`
-
-
 Please contact support@rapyuta.io for any clarifications or help
